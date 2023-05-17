@@ -48,7 +48,8 @@
 
 /*logo*/
 @import url(../blocks/logo/logo.css);
-@import url(../blocks/logo/__place__header/logo__place__header.css);
+@import url(../blocks/logo/__logo_place_header/header__logo_place_header.css);
+
 
 /*digits*/
 @import url(../blocks/digits/digits.css);
